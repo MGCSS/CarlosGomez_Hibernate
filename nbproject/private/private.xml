@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/model/CasoPolicial.java</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/carloshibernate/CarlosHibernate.java</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/model/Experto.hbm.xml</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/model/ColaboraId.java</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/carloshibernate/ManejaExperto.java</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/model/Experto.java</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/model/Colabora.java</file>
+            <file>file:/C:/Users/carlo/Documents/NetBeansProjects/CarlosHibernate/src/carloshibernate/HibernateUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
