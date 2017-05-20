@@ -211,8 +211,7 @@ public class ManejaExperto {
         {
             iniciaOperacion();
         
-            String queryText = "SELECT DISTINCT e.nombre, cp.nombre FROM Experto as e, CasoPolicial as cp "
-                            + "INNER JOIN e.colaboras inner join cp.colaboras";
+            String queryText = "SELECT DISTINCT e.nombre, cp.nombre FROM Experto as e, CasoPolicial as cp INNER JOIN e.colaboras inner join cp.colaboras";
             Query query = sesion.createQuery(queryText);
             List<Object[]> result = query.list();
 
